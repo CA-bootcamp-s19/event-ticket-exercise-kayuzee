@@ -8,5 +8,4 @@ import "../contracts/EventTicketsV2.sol";
 contract TestEventTicket {
 
 
-
 }
